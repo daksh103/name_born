@@ -14,5 +14,5 @@ for w in words:
         b[pair]=b.get(pair,0)+1
         
         # print(i," ",j)
-
+#print
 print(b)
