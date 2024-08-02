@@ -23,4 +23,5 @@ a=torch.zeros((3,5))
 
 print(a)
 a[1][3]=1
+
 print(a)
